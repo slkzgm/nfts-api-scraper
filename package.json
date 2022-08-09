@@ -1,0 +1,22 @@
+{
+  "name": "nfts-api-scraper",
+  "version": "1.0.0",
+  "description": "Scripts to retrieve nfts collections data from opensea and 0xreservoir APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slkzgm/nfts-api-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slkzgm/nfts-api-scraper/issues"
+  },
+  "homepage": "https://github.com/slkzgm/nfts-api-scraper#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
