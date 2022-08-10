@@ -13,3 +13,7 @@ It allows not to worry about bot protections as it uses public APIs only and the
 3: Run the desired script: `node script_name`
 
 4: Find your new file in /data
+
+# API's available data:
+
+![image](https://user-images.githubusercontent.com/105301169/183921396-62b99240-d20a-4c92-9a1b-b7e7dd887d2b.png)
